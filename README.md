@@ -170,14 +170,25 @@ El valor obtenido debe coincidir exactamente con el SHA-256 publicado.
 
 ## Capturas
 
-Próximamente se agregarán capturas oficiales de:
+### Pantalla principal
 
-- Pantalla principal
-- Resultado del análisis
-- Recomendaciones
-- Activación PRO
+![Pantalla principal de SSZA Academic Review](assets/screenshots/inicio.png)
 
----
+### Análisis del documento
+
+![Proceso de análisis de SSZA Academic Review](assets/screenshots/resultado.png)
+
+### Resultado y recomendaciones
+
+![Resultado del análisis de SSZA Academic Review](assets/screenshots/resultado_2.png)
+
+### Resultado y recomendaciones
+
+![Resultado del análisis de SSZA Academic Review](assets/screenshots/resultado_3.png)
+
+### Resultado y recomendaciones
+
+![Resultado del análisis de SSZA Academic Review](assets/screenshots/resultado_4.png)
 
 ## Versiones
 
