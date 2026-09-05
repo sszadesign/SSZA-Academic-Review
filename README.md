@@ -1,5 +1,4 @@
 <div align="center">
-### Pantalla principal
 
 <p align="center">
   <img src="assets/screenshots/logo_3_transparente.png" width="220" alt="SSZA - Design">
