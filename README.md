@@ -1,91 +1,226 @@
+<div align="center">
+
 # SSZA Academic Review
 
-**Análisis local de documentos, coherencia, naturalidad y patrones de redacción**
+### Análisis local de documentos, coherencia, naturalidad y patrones de redacción
 
-SSZA Academic Review es una herramienta de escritorio para Windows diseñada para revisar documentos de forma local y generar una estimación orientativa sobre patrones de redacción excesivamente estructurados, repetitivos o automatizados.
+**3 análisis GRATIS · Windows · Procesamiento local · PRO $19.99 USD**
 
-> **Tus documentos se procesan localmente en tu computadora.**
+[![Descargar última versión](https://img.shields.io/badge/DESCARGAR-ÚLTIMA%20VERSIÓN-0A84FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)
 
----
+[![Versión](https://img.shields.io/badge/versión-v0.1.2-1f6feb?style=flat-square)](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows)
+![Licencia PRO](https://img.shields.io/badge/PRO-$19.99%20USD-22c55e?style=flat-square)
 
-## ¿Qué hace?
+**Desarrollado por SSZA - Design**
 
-- Analiza el documento por párrafos.
-- Detecta patrones de redacción repetitivos o demasiado uniformes.
-- Evalúa ritmo, estructura y variación de oraciones.
-- Señala frases formulaicas, metadiscurso y conectores repetidos.
-- Identifica cambios bruscos de estilo.
-- Considera texto jurídico o normativo para reducir falsos positivos.
-- Genera recomendaciones concretas para mejorar claridad, coherencia y naturalidad.
-- Produce un reporte detallado con los párrafos que requieren mayor revisión.
+</div>
 
 ---
 
-## Versión gratuita
+## ¿Qué es SSZA Academic Review?
 
-La edición FREE incluye:
+**SSZA Academic Review** es una herramienta de escritorio para Windows orientada a revisar documentos de forma local.
 
-- **3 análisis completos sin costo**
-- Reporte detallado
-- Recomendaciones por párrafo
-- Funcionamiento local en Windows
+Analiza patrones de escritura, estructura, coherencia, ritmo, repetición y regularidad del texto para generar un **índice heurístico orientativo** y recomendaciones concretas de revisión.
+
+> 🔒 **El análisis se realiza localmente en tu computadora.**
 
 ---
 
-## Edición PRO
+## ¿Qué analiza?
 
-**$19.99 USD — pago único — 1 PC**
+- Estructura y longitud de oraciones
+- Variación del ritmo de escritura
+- Repetición de palabras y estructuras
+- Frases demasiado formulaicas
+- Metadiscurso
+- Conectores repetidos
+- Cambios bruscos de estilo
+- Diversidad de inicios de oración
+- Uso excesivo de expresiones genéricas
+- Matizadores vagos
+- Datos, fechas, ejemplos y referencias concretas
+- Texto jurídico o normativo
+- Párrafos que necesitan mayor revisión
 
-La licencia PRO habilita análisis ilimitados en la computadora activada.
+---
 
-### Activación y soporte
+## Resultado del análisis
+
+Al finalizar, SSZA Academic Review genera un reporte con:
+
+- **Índice estimado**
+- Nivel de regularidad detectada
+- Perfil observado del documento
+- Calidad de la muestra analizada
+- Hallazgos generales
+- Párrafos con mayor riesgo
+- Recomendaciones específicas
+- Acciones prioritarias
+- Reporte HTML
+- Reporte de texto
+- Datos detallados por párrafo
+
+---
+
+## FREE vs PRO
+
+| Función | FREE | PRO |
+|---|:---:|:---:|
+| Análisis completo de documentos | ✅ | ✅ |
+| Revisión por párrafos | ✅ | ✅ |
+| Recomendaciones detalladas | ✅ | ✅ |
+| Reporte HTML | ✅ | ✅ |
+| Procesamiento local | ✅ | ✅ |
+| Número de análisis | **3** | **Ilimitados** |
+| Licencia permanente | ❌ | ✅ |
+| Precio | Gratis | **$19.99 USD** |
+
+### Edición PRO
+
+**$19.99 USD · Pago único · 1 PC**
+
+No es una suscripción mensual.
+
+---
+
+## Descargar para Windows
+
+### Última versión estable: **v0.1.2**
+
+👉 **[DESCARGAR SSZA ACADEMIC REVIEW](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)**
+
+Dentro de la Release descarga:
+
+`SSZA_Academic_Review_v0.1.2.exe`
+
+### Requisitos
+
+- Windows 10
+- Windows 11
+- Se recomienda Windows de 64 bits
+
+---
+
+## Activación PRO
+
+Después de utilizar las pruebas gratuitas puedes activar la edición PRO desde el mismo programa.
+
+### Soporte y activación
+
+**WhatsApp:** +504 9847-0273  
+**Correo:** sszadesigne@gmail.com
+
+La licencia PRO se activa para **una computadora**.
+
+---
+
+## Privacidad
+
+SSZA Academic Review está diseñado para realizar su análisis de forma local.
+
+El contenido del documento no necesita enviarse a un servidor externo para ejecutar el análisis heurístico incluido en la aplicación.
+
+---
+
+## Importante sobre el porcentaje
+
+El porcentaje mostrado por SSZA Academic Review es un **índice heurístico orientativo basado en patrones de escritura**.
+
+**No constituye una prueba de autoría.**
+
+La herramienta no puede identificar de manera concluyente si un texto fue escrito por:
+
+- una persona
+- ChatGPT
+- Claude
+- Gemini
+- otro modelo de inteligencia artificial
+
+Los resultados deben utilizarse como una herramienta de **apoyo para revisión editorial, académica y profesional**.
+
+---
+
+## Verificación del ejecutable
+
+### SSZA Academic Review v0.1.2
+
+**Archivo**
+
+`SSZA_Academic_Review_v0.1.2.exe`
+
+**SHA-256**
+
+```text
+DF1F25B770D6681353093FE4DF98BDB157AEA7DB99401C354E1E2B2CB35E8ECD
+```
+
+También puedes descargar `SHA256SUMS.txt` desde la Release correspondiente.
+
+### Verificar en PowerShell
+
+```powershell
+Get-FileHash "SSZA_Academic_Review_v0.1.2.exe" -Algorithm SHA256
+```
+
+El valor obtenido debe coincidir exactamente con el SHA-256 publicado.
+
+---
+
+## Capturas
+
+Próximamente se agregarán capturas oficiales de:
+
+- Pantalla principal
+- Resultado del análisis
+- Recomendaciones
+- Activación PRO
+
+---
+
+## Versiones
+
+### v0.1.2
+
+- Precio PRO corregido a **$19.99 USD**
+- Mejoras en análisis heurístico
+- Recomendaciones más específicas
+- Análisis por párrafo
+- Flujo de múltiples análisis
+- Mejoras de interfaz
+- Validación del motor antes de ejecutar
+- Sistema FREE / PRO
+
+Consulta todas las versiones en:
+
+👉 **[Releases](https://github.com/sszadesign/SSZA-Academic-Review/releases)**
+
+---
+
+## Soporte
+
+¿Tienes problemas con la instalación, activación o funcionamiento?
 
 **WhatsApp:** +504 9847-0273  
 **Correo:** sszadesigne@gmail.com
 
 ---
 
-## Descargar
+<div align="center">
 
-La versión más reciente estará disponible en la sección **Releases** de este repositorio.
+### SSZA - Design
 
-> Busca siempre la versión marcada como **Latest**.
-
----
-
-## Compatibilidad
-
-- Windows 10
-- Windows 11
-- Arquitecturas de 64 bits recomendadas
-
----
-
-## Privacidad
-
-SSZA Academic Review está diseñado para trabajar localmente. El análisis del documento no requiere subir su contenido a un servicio externo para realizar la revisión heurística incluida en la aplicación.
-
----
-
-## Importante sobre el resultado
-
-El porcentaje mostrado por SSZA Academic Review es un **índice heurístico orientativo** basado en patrones de escritura.
-
-No debe interpretarse como una prueba definitiva de autoría y **no identifica de forma concluyente** si un texto fue escrito por una persona, ChatGPT, Claude, Gemini u otro modelo de inteligencia artificial.
-
-Los resultados deben utilizarse como apoyo para la revisión editorial y académica.
-
----
-
-## Sobre SSZA - Design
-
-SSZA Academic Review es desarrollado por **SSZA - Design**.
-
-**Soporte:** +504 9847-0273  
-**Correo:** sszadesigne@gmail.com
-
----
+**Software · Desarrollo · Soluciones digitales**
 
 © 2026 SSZA - Design. Todos los derechos reservados.
 
-Este software es propietario. No se autoriza su redistribución, modificación, ingeniería inversa o comercialización sin autorización expresa de SSZA - Design.
+</div>
+
+---
+
+### Aviso de propiedad
+
+SSZA Academic Review es software propietario.
+
+No se autoriza su modificación, ingeniería inversa, reventa, redistribución comercial ni extracción de componentes internos sin autorización expresa de **SSZA - Design**.
