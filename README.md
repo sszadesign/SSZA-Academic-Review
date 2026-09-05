@@ -172,23 +172,23 @@ El valor obtenido debe coincidir exactamente con el SHA-256 publicado.
 
 ### Pantalla principal
 
-![Pantalla principal de SSZA Academic Review](assets/screenshots/inicio.png)
+![Pantalla principal de SSZA Academic Review](assets/screenshots/Inicio.png)
 
 ### Análisis del documento
 
-![Proceso de análisis de SSZA Academic Review](assets/screenshots/resultado.png)
+![Proceso de análisis de SSZA Academic Review](assets/screenshots/Resultado.png)
 
 ### Resultado y recomendaciones
 
-![Resultado del análisis de SSZA Academic Review](assets/screenshots/resultado_2.png)
+![Resultado del análisis de SSZA Academic Review](assets/screenshots/Resultado_2.png)
 
 ### Resultado y recomendaciones
 
-![Resultado del análisis de SSZA Academic Review](assets/screenshots/resultado_3.png)
+![Resultado del análisis de SSZA Academic Review](assets/screenshots/Resultado_3.png)
 
 ### Resultado y recomendaciones
 
-![Resultado del análisis de SSZA Academic Review](assets/screenshots/resultado_4.png)
+![Resultado del análisis de SSZA Academic Review](assets/screenshots/Resultado_4.png)
 
 ## Versiones
 
