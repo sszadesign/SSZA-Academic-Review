@@ -1,5 +1,7 @@
 <div align="center">
+### Pantalla principal
 
+![Pantalla principal de SSZA Academic Review](assets/screenshots/logo_3_transparente.png)
 # SSZA Academic Review
 
 ### Análisis local de documentos, coherencia, naturalidad y patrones de redacción
