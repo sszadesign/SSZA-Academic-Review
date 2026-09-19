@@ -89,7 +89,7 @@ No es una suscripción mensual.
 
 ## Descargar para Windows
 
-### Última versión estable: **v0.1.2**
+### Última versión estable: **v0.1.4**
 
 👉 **[DESCARGAR SSZA ACADEMIC REVIEW](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)**
 
@@ -146,7 +146,7 @@ Los resultados deben utilizarse como una herramienta de **apoyo para revisión e
 
 ## Verificación del ejecutable
 
-### SSZA Academic Review v0.1.2
+### SSZA Academic Review v0.1.4
 
 **Archivo**
 
@@ -163,7 +163,7 @@ También puedes descargar `SHA256SUMS.txt` desde la Release correspondiente.
 ### Verificar en PowerShell
 
 ```powershell
-Get-FileHash "SSZA_Academic_Review_v0.1.2.exe" -Algorithm SHA256
+Get-FileHash "SSZA_Academic_Review_v0.1.4.exe" -Algorithm SHA256
 ```
 
 El valor obtenido debe coincidir exactamente con el SHA-256 publicado.
@@ -194,7 +194,7 @@ El valor obtenido debe coincidir exactamente con el SHA-256 publicado.
 
 ## Versiones
 
-### v0.1.2
+### v0.1.4
 
 - Precio PRO corregido a **$19.99 USD**
 - Mejoras en análisis heurístico
