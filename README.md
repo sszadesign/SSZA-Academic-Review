@@ -6,7 +6,7 @@
 
 ### Análisis local de documentos, coherencia, naturalidad y patrones de redacción
 
-**3 análisis GRATIS · Windows · Procesamiento local · PRO $19.99 USD**
+**3 análisis GRATIS · Windows · Procesamiento local · PRO $14.99 USD**
 
 [![Descargar última versión](https://img.shields.io/badge/DESCARGAR-ÚLTIMA%20VERSIÓN-0A84FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)
 
