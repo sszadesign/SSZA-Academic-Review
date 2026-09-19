@@ -196,7 +196,7 @@ El valor obtenido debe coincidir exactamente con el SHA-256 publicado.
 
 ### v0.1.4
 
-- Precio PRO corregido a **$19.99 USD**
+- Precio PRO introduccion a **$14.99 USD**
 - Mejoras en análisis heurístico
 - Recomendaciones más específicas
 - Análisis por párrafo
