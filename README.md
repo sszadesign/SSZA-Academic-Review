@@ -10,7 +10,7 @@
 
 [![Descargar última versión](https://img.shields.io/badge/DESCARGAR-ÚLTIMA%20VERSIÓN-0A84FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)
 
-[![Versión](https://img.shields.io/badge/versión-v0.1.2-1f6feb?style=flat-square)](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)
+[![Versión](https://img.shields.io/badge/versión-v0.1.4-1f6feb?style=flat-square)](https://github.com/sszadesign/SSZA-Academic-Review/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows)
 ![Licencia PRO](https://img.shields.io/badge/PRO-$19.99%20USD-22c55e?style=flat-square)
 
